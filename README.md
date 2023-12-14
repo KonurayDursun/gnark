@@ -24,7 +24,7 @@ To get started with `gnark` and write your first circuit, follow [these instruct
 Checkout the [online playground][`gnark` Playground] to compile circuits and visualize constraint systems.
 
 
-## Warning
+## Warning detail
 
 **`gnark` has been [partially audited](https://github.com/ConsenSys/gnark-crypto/blob/master/audit_oct2022.pdf) and is provided as-is, we make no guarantees or warranties to its safety and reliability. In particular, `gnark` makes no security guarantees such as constant time implementation or side-channel attack resistance.**
 
